@@ -6,4 +6,3 @@ WORKDIR /app
 COPY index.js . 
 # 4. El comando que se ejecutará cuando el contenedor se inicie 
 CMD ["node", "index.js"] 
-Haz clic en Commit changes... y confirma. 
